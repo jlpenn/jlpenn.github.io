@@ -290,6 +290,7 @@ margin-top:-39px;
 
 #bodyresearch {
 	background-image: url("IMAGES/RESEARCH_ocean_background.jpeg");
+	 background-size: cover;
 	background-repeat: repeat-y;
 	font-family: 'ZCOOL QingKe HuangYou', cursive;
 	background-color: black;
